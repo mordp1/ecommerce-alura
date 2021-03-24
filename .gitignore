@@ -1,0 +1,4 @@
+# Project exclude paths
+/ecommerce/common-kafka/target/
+/ecommerce/service-new-order/target/
+/ecommerce/target/
